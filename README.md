@@ -27,7 +27,7 @@ npm install
 ### Setup a Postgres database using Docker 
 
 ```
-docker run 
+docker run --name [container_name] -e POSTGRES_PASSWORD=[your_password] -d postgres
 ```
 
 ### Change the development environment database configuration on ``config/database.js`` according to your database credentials 
