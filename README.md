@@ -59,6 +59,12 @@ yarn build
 
 ---
 
+# Contributing
+
+Check out the [contributing](https://github.com/LauraBeatris/floripamais/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+---
+
 ## License
 
 Released in 2020
