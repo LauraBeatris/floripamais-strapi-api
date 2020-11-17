@@ -2,6 +2,8 @@
    <img src=".github/docs/images/logo.png" width="350"/>
 </p>
 
+> Headless CMS made with [Strapi](https://strapi.io/) for the [Floripa+](https://github.com/LauraBeatris/floripamais) website
+
 [![Author](https://img.shields.io/badge/author-LauraBeatris-FB8F0A?style=flat-square)](https://github.com/LauraBeatris)
 [![Languages](https://img.shields.io/github/languages/count/LauraBeatris/floripamais-strapi-api?color=%23FB8F0A&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/LauraBeatris/floripamais-strapi-api?color=FB8F0A&style=flat-square)](https://github.com/LauraBeatris/floripamais-strapi-api/stargazers)
