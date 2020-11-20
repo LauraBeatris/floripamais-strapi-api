@@ -292,9 +292,6 @@ const AuthPage = ({ hasAdmin }) => {
     <AuthPageWrapper>
       <Padded backgroundColor="#000" bottom size="md">
         <PageTitle title={upperFirst(authType)} />
-        <NavTopRightWrapper>
-          <LocaleToggle isLogged className="localeDropdownMenuNotLogged" />
-        </NavTopRightWrapper>
         <BaselineAlignment top size="78px">
           <Component
             {...rest}
