@@ -19,10 +19,7 @@
       "type": "text",
       "required": true
     },
-    "nextActions": {
-      "collection": "actions"
-    },
-    "previousActions": {
+    "actions": {
       "collection": "actions"
     },
     "actionButtonText": {
