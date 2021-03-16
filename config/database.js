@@ -10,7 +10,10 @@ module.exports = ({ env }) => ({
         database: env('DATABASE_NAME', 'floripamais'),
         username: env('DATABASE_USERNAME', 'postgres'),
         password: env('DATABASE_PASSWORD', '123'),
-        ssl: env.bool('DATABASE_SSL', false),
+        ssl: {
+          require: env.bool('DATABASE_SSL', true), 
+          rejectUnauthorized: false 
+        },
       },
       options: {}
     },
